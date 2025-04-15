@@ -3,87 +3,56 @@ layout: default
 ---
 
 
-## AIMC 2025
+## NIME 2025
 
-Below are some anonymized videos of the AnonSystem operating under different stabilities
-
-<br> 
-
----
-
-### Stability 1
-### Autonomous drum accompaniment generator
-
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/AnonVenue1_Blurred.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<br> 
-
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/AnonVenue1_Blurred2.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+This page contains supplementary material for the NIME2025 paper "Repurposing a Rhythm Accompaniment System for Pipe Organ Performance"
 
 <br> 
 
 ---
 
-
-### Stability 2
-### Rhythmic driver of a harmonic accompaniment generator
-
-<br> 
+### Demos
 
 <video width="640" height="360" controls>
-  <source src="{{ '/assets/AnonVenue2_1.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/Vid0.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <br> 
 
 <video width="640" height="360" controls>
-  <source src="{{ '/assets/AnonVenue2_2.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/Vid1.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <br> 
+
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/Vid2.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+
+</video>
+
+<br>
+
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/Vid3.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+
+</video>
+
+<br>
+
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/Vid4.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br>
 
 ---
 
-### Stability 3
-### Generative multi-channel control voltage sequencer in the Eurorack format
+### Downloads
 
-<br> 
-
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/Eurorack4_blurred.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<br> 
-
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/Eurorack1.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<br> 
-
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/Eurorack2_blurred.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<br> 
-
-<video width="640" height="360" controls>
-  <source src="{{ '/assets/Eurorack3_blurred.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<br> 
-
-
+Max Patch and Documentation can be accessed from [here](https://github.com/NIME2025OrganPerformance/anon_material).
 

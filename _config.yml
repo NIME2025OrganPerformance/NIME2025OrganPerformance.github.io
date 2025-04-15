@@ -1,7 +1,7 @@
 # Site settings
-title: AIMC2025 - Supplementary Demos
-tag_text: AIMC2025
-description: This page contains some videos of the AnonSystem operating under different stabilities
+title: NIME2025 - Supplementary Demos
+tag_text: NIME2025
+description: This page contains supplementary material for the NIME2025 paper "Repurposing a Rhythm Accompaniment System for Pipe Organ Performance"
 # baseurl: "/blog" # the subpath of your site, e.g. /blog
 # url: "https://example.com" # the base hostname & protocol for your site, e.g. http://example.com
 
